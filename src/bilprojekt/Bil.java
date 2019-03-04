@@ -55,7 +55,7 @@ public class Bil {
 
    @Override
     public String toString() {
-        return farve + " "+vægt + " " + nummerplade;
+        return farve + " "+vægt + " " + nummerplade + " ";
     }
     
     
